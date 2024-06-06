@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">Connect with me</p>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Language</h3>
+<h3 align="center">🛠 Language</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">Development Tools and Frameworks</h3>
+<h3 align="center">Development Tools and Frameworks</h3>
 
 ###
 
