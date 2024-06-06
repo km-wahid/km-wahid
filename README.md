@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="150" src="https://lottiefiles.com/animations/programming-s0B2YQz8st"  />
-  <img src="khalidmuhammad/Downloads/image.png" alt="Hello image" style="width: 300px; height: 300px;">
+<!--   <img height="150" src="https://lottiefiles.com/animations/programming-s0B2YQz8st"  /> -->
+  <img src="https://www.pexels.com/photo/astronaut-with-a-planet-earth-ball-5258241/" alt="Hello image" style="width: 300px; height: 300px;">
 
 </div>
 
