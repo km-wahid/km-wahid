@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-1/416138625_1069411520926301_5591544048627385811_n.jpg?stp=dst-jpg_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEe9vHOUibPTzIaorhFqcGJy_LriU50JA_L8uuJTnQkD56s926fE398SJp6i2b1fJC5ppu1p3orABs9kTDjUH0K&_nc_ohc=xPJ9ytiIo9cQ7kNvgEP6GAt&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYBuKB2pOa6GgFKIJb7FskKywLbDZ5lLC7DKVfsAzxqIOA&oe=66674459"  />
+</div>
 
-<!--
-**km-wahid/km-wahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">hey there 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm  Khalid  from Dhaka, Bangladesh<br><br>- 🔭 I’m a cs student<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time I  would like to explore new technology.</p>
+
+###
+
+<h3 align="left">🛠 Language</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">Development Tools and Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
