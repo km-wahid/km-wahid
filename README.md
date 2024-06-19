@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img height="150" src="https://lottiefiles.com/animations/programming-s0B2YQz8st"  /> -->
-<img src="khalidmuhammad/Downloads/n-the-heart-of-a-bustling-metropolis-amidst-toweri-33BbpgFoSkeU2AoNbzoNvA-NnspVcFBTsizSnNTsIV1RQ" style="width: 300px; height: 300px;">
+<img src="https://ideogram.ai/khalidmuhammad/Downloads/n-the-heart-of-a-bustling-metropolis-amidst-toweri-33BbpgFoSkeU2AoNbzoNvA-NnspVcFBTsizSnNTsIV1RQ" style="width: 300px; height: 300px;">
 
 </div>
 
