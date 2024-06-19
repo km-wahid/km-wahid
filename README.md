@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://www.istockphoto.com/vector/matrix-background-binary-code-texture-falling-green-numbers-data-visualization-gm1312850689-401531597?searchscope=image%2Cfilm](https://media.istockphoto.com/id/1312850689/vector/matrix-background-binary-code-texture-falling-green-numbers-data-visualization-concept.jpg?s=612x612&w=0&k=20&c=l1xAzPJUjbROnui5McM-_vbDswAg5OoSzwJuFpdj3WE=)" style="width: 300px; height: 300px;">
+ <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 ---
