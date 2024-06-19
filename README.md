@@ -1,5 +1,5 @@
 <div align="center">
-<!--   <img height="150" src="https://lottiefiles.com/animations/programming-s0B2YQz8st"  /> -->
+
 <img src="https://www.istockphoto.com/vector/matrix-background-binary-code-texture-falling-green-numbers-data-visualization-gm1312850689-401531597?searchscope=image%2Cfilm" style="width: 300px; height: 300px;">
 
 </div>
