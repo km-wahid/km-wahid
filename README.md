@@ -22,7 +22,7 @@
 
 ### <h3 align="center">👩‍💻 About Me</h3>
 
-<p align="left">I'm Khalid from Dhaka, Bangladesh<br><br>- 🔭 I’m a CS student<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time, I like to explore new technology.</p>
+<p align="left">I'm Khalid from Dhaka, Bangladesh<br><br>- 🔭 I’m a CS student<br>- 📚 Explore new Technology <br>- ⚡ In my free time, I like to explore new technology.</p>
 
 ---
 
