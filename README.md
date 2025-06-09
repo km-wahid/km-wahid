@@ -60,43 +60,41 @@
 
 ### MY PROJECTS
 
-**Note: Replace the placeholders below with your actual project details.**
-
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Name 1</h3>
+      <h3 align="center">CLO Assessment System</h3>
       <br />
-      <a target="_blank" href="[LINK_TO_YOUR_PROJECT_REPO]">
-        <img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" width="100%" alt="Project 1"/>
+      <a target="_blank" href="https://github.com/km-wahid/CLOAssessment">
+        <img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" width="100%" alt="CLO Assessment Project"/>
       </a>
       <br />
       <p align="center">
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">
+      <a href="https://github.com/km-wahid/CLOAssessment" target="_blank">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
+      <a href="https://cloassessment.onrender.com/" target="_blank">
         <img src="https://img.shields.io/badge/Live-00BFFF?style=for-the-badge"/>
       </a>
       </p>
-      <p><strong>Brief description of your project and the technologies used.</strong> For example: <em>A web application for task management built with Django and PostgreSQL.</em></p>
+      <p><strong>An application for assessing and managing Course Learning Outcomes (CLOs) for educational institutions. Built with Django.</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Name 2</h3>
+      <h3 align="center">Event Management System</h3>
       <br />
-      <a target="_blank" href="[LINK_TO_YOUR_PROJECT_REPO]">
-        <img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" width="100%" alt="Project 2"/>
+      <a target="_blank" href="https://github.com/km-wahid/Event_management">
+        <img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" width="100%" alt="Event Management Project"/>
       </a>
       <br />
       <p align="center">
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">
+      <a href="https://github.com/km-wahid/Event_management" target="_blank">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
+      <a href="https://event-management-gxyn.onrender.com/event_list/" target="_blank">
         <img src="https://img.shields.io/badge/Live-00BFFF?style=for-the-badge"/>
       </a>
       </p>
-      <p><strong>Brief description of your project and the technologies used.</strong> For example: <em>A data analysis tool developed in Python to visualize stock market trends.</em></p>
+      <p><strong>A full-featured platform for creating, managing, and tracking events. Developed using the Django framework.</strong></p>
     </td>
   </tr>
 </table>
@@ -106,13 +104,13 @@
 ### GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalid-muhammad-wahid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Khalid's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=km-wahid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Khalid's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-muhammad-wahid&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-wahid&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalid-muhammad-wahid&theme=radical" alt="Khalid's GitHub Profile Summary"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=km-wahid&theme=radical" alt="Khalid's GitHub Profile Summary"/>
 </p>
