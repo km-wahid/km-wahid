@@ -1,90 +1,174 @@
 <div align="center">
 
-# Khalid Muhammad Wahid
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║         K H A L I D   M U H A M M A D   W A H I D           ║
+║                                                               ║
+║              Backend Engineer in the Making                   ║
+║                    Dhaka, Bangladesh                          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-**Computer Science Student · Backend Developer · Open Source Enthusiast**
-
-*Dhaka, Bangladesh*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-muhammad-wahid-0263b01b3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://kmwhid.netlify.app/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/khalidmuhammad1183)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Backend+Developer+%7C+Django+%26+Python;Open+Source+Enthusiast;DSA+%26+Competitive+Programmer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a Computer Science student passionate about building robust backend systems and writing clean, efficient code. My current focus is mastering **Django**, deepening my understanding of **data structures & algorithms**, and contributing to meaningful open-source projects.
+### `$ whoami`
 
-- 🔭 &nbsp;Exploring backend architecture and system design
-- 🌱 &nbsp;Actively sharpening DSA skills for competitive programming
-- 🤝 &nbsp;Open to collaborating on web development and OSS projects
-- 💬 &nbsp;Happy to discuss Python, C++, or backend engineering concepts
-
----
-
-## Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Databases**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Projects
-
-### CLO Assessment System
-> An application for assessing and tracking Course Learning Outcomes (CLOs) for academic institutions.
-
-Built with Django · PostgreSQL · Deployed on Render
-
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/km-wahid/CLOAssessment)
-[![Live](https://img.shields.io/badge/Live%20Demo-00BFFF?style=flat-square)](https://cloassessment.onrender.com/)
-
----
-
-### Event Management System
-> A full-featured platform for creating, managing, and tracking events end-to-end.
-
-Built with Django · PostgreSQL · Deployed on Render
-
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/km-wahid/Event_management)
-[![Live](https://img.shields.io/badge/Live%20Demo-00BFFF?style=flat-square)](https://event-management-gxyn.onrender.com/event_list/)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=km-wahid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-wahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
-</div>
+```yaml
+name       : Khalid Muhammad Wahid
+location   : Dhaka, Bangladesh
+role       : CS Student · Backend Developer
+focus      : Django · DSA · System Design
+currently  : Building things that matter
+open_to    : Collaboration & Opportunities
+```
 
 <br/>
 
+### `$ cat philosophy.txt`
+
+> *"Write code that humans can read, not just machines."*
+
+I believe great software is equal parts logic and craft. I build backend systems that are clean, scalable, and actually make sense six months later.
+
+<br clear="right"/>
+
+---
+
+### `$ ls -la skills/`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+```
+Python      ████████░░  80%
+C++         ███████░░░  70%
+C           ██████░░░░  60%
+SQL         ███████░░░  70%
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Frameworks**
+```
+Django      ████████░░  80%
+Django REST ██████░░░░  60%
+PostgreSQL  ███████░░░  70%
+MySQL       ███████░░░  70%
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Tools**
+```
+Git         ████████░░  80%
+Linux       ███████░░░  70%
+GitHub      ████████░░  80%
+Render      ██████░░░░  60%
+```
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=km-wahid&theme=github_dark" alt="Profile Summary"/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+
+**Key Features:**
+- Event creation, editing, and categorization
+- Participant registration and management
+- Event listing with filtering and search
+- Fully deployed with persistent data
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/km-wahid/Event_management)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square)](https://event-management-gxyn.onrender.com/event_list/)
+
+</details>
+
+---
+
+### `$ git log --oneline --graph`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=km-wahid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-wahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" height="170"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=km-wahid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)
+
+</div>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=km-wahid&theme=github_dark"/>
+
+</div>
+
+---
+
+### `$ cat currently_learning.log`
+
+```
+[✓] Django REST Framework     — building robust APIs
+[✓] Advanced PostgreSQL        — indexing, optimization
+[ ] System Design              — in progress...
+[ ] Docker & Containerization  — queued
+[ ] Redis & Caching            — queued
+```
+
+---
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [khalid-muhammad-wahid](https://www.linkedin.com/in/khalid-muhammad-wahid-0263b01b3/) |
+| 🌐 Portfolio | [kmwhid.netlify.app](https://kmwhid.netlify.app/) |
+| 💬 Discord | [khalidmuhammad1183](https://discord.com/users/khalidmuhammad1183) |
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Always learning · Always building</sub>
+
+```
+┌─────────────────────────────────────────────────┐
+│  Open to internships, collaborations, and        │
+│  interesting backend challenges. Let's build.    │
+└─────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=km-wahid&style=flat-square&color=0EA5E9&label=profile+views)
+
 </div>
