@@ -98,16 +98,8 @@ Render      ██████░░░░  60%
 ---
 
 
-**Key Features:**
-- Event creation, editing, and categorization
-- Participant registration and management
-- Event listing with filtering and search
-- Fully deployed with persistent data
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/km-wahid/Event_management)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square)](https://event-management-gxyn.onrender.com/event_list/)
 
-</details>
 
 ---
 
@@ -137,10 +129,11 @@ Render      ██████░░░░  60%
 ### `$ cat currently_learning.log`
 
 ```
-[✓] Django REST Framework     — building robust APIs
-[✓] Advanced PostgreSQL        — indexing, optimization
+[✓] Django REST Framework      — building robust APIs
+[✓] Advanced PostgreSQL        — indexing, optimisation
+[✓] Docker & Containerization  — queued
 [ ] System Design              — in progress...
-[ ] Docker & Containerization  — queued
+[ ] AI/ML                      — in progress...
 [ ] Redis & Caching            — queued
 ```
 
