@@ -1,117 +1,90 @@
 <div align="center">
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" />
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-waving.gif?1531849430" width="30"/> Hello there! I'm Khalid Muhammad Wahid.</h1>
-  <p>A passionate Computer Science student from Dhaka, Bangladesh, with a strong interest in exploring new technologies and building innovative solutions.</p>
+
+# Khalid Muhammad Wahid
+
+**Computer Science Student · Backend Developer · Open Source Enthusiast**
+
+*Dhaka, Bangladesh*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-muhammad-wahid-0263b01b3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://kmwhid.netlify.app/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/khalidmuhammad1183)
+
 </div>
 
 ---
 
-###  CONNECT WITH ME
+## About
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khalid-muhammad-wahid-0263b01b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/khalidmuhammad1183" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-<a href="https://kmwhid.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+I'm a Computer Science student passionate about building robust backend systems and writing clean, efficient code. My current focus is mastering **Django**, deepening my understanding of **data structures & algorithms**, and contributing to meaningful open-source projects.
 
-</p>
+- 🔭 &nbsp;Exploring backend architecture and system design
+- 🌱 &nbsp;Actively sharpening DSA skills for competitive programming
+- 🤝 &nbsp;Open to collaborating on web development and OSS projects
+- 💬 &nbsp;Happy to discuss Python, C++, or backend engineering concepts
 
 ---
 
-### ABOUT ME
+## Tech Stack
 
--   🔭 I’m currently a **Computer Science student** on a journey of continuous learning and growth.
--   🌱 I’m currently focused on mastering **backend development** and exploring the depths of **data structures and algorithms**.
--   👯 I’m looking to collaborate on **open-source projects** related to web development or competitive programming.
--   🤔 I’m looking for help with **advanced Django concepts** and **system design**.
--   💬 Ask me about **Python, C++, or anything related to the tech I'm learning**.
--   ⚡ Fun fact: In my free time, I love to dive into the latest tech trends and contribute to coding communities.
+**Languages**
 
----
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### MY TECH STACK
+**Frameworks & Databases**
 
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <strong>Frameworks & Databases:</strong><br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+**Tools & Platforms**
 
-<p align="center">
-  <strong>Tools & Platforms:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### MY PROJECTS
+## Projects
 
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CLO Assessment System</h3>
-      <br />
-      <a target="_blank" href="https://github.com/km-wahid/CLOAssessment">
-        <img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" width="100%" alt="CLO Assessment Project"/>
-      </a>
-      <br />
-      <p align="center">
-      <a href="https://github.com/km-wahid/CLOAssessment" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://cloassessment.onrender.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Live-00BFFF?style=for-the-badge"/>
-      </a>
-      </p>
-      <p><strong>An application for assessing and managing Course Learning Outcomes (CLOs) for educational institutions. Built with Django.</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Event Management System</h3>
-      <br />
-      <a target="_blank" href="https://github.com/km-wahid/Event_management">
-        <img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" width="100%" alt="Event Management Project"/>
-      </a>
-      <br />
-      <p align="center">
-      <a href="https://github.com/km-wahid/Event_management" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://event-management-gxyn.onrender.com/event_list/" target="_blank">
-        <img src="https://img.shields.io/badge/Live-00BFFF?style=for-the-badge"/>
-      </a>
-      </p>
-      <p><strong>A full-featured platform for creating, managing, and tracking events. Developed using the Django framework.</strong></p>
-    </td>
-  </tr>
-</table>
+### CLO Assessment System
+> An application for assessing and tracking Course Learning Outcomes (CLOs) for academic institutions.
+
+Built with Django · PostgreSQL · Deployed on Render
+
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/km-wahid/CLOAssessment)
+[![Live](https://img.shields.io/badge/Live%20Demo-00BFFF?style=flat-square)](https://cloassessment.onrender.com/)
 
 ---
 
-### GITHUB STATS
+### Event Management System
+> A full-featured platform for creating, managing, and tracking events end-to-end.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=km-wahid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Khalid's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-wahid&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-</p>
+Built with Django · PostgreSQL · Deployed on Render
+
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/km-wahid/Event_management)
+[![Live](https://img.shields.io/badge/Live%20Demo-00BFFF?style=flat-square)](https://event-management-gxyn.onrender.com/event_list/)
 
 ---
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=km-wahid&theme=radical" alt="Khalid's GitHub Profile Summary"/>
-</p>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=km-wahid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-wahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=km-wahid&theme=github_dark" alt="Profile Summary"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Always learning · Always building</sub>
+</div>
